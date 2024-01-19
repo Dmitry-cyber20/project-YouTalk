@@ -1197,7 +1197,7 @@ h6 {
   margin-top: 28px;
   margin-right: 120px;
   border-radius: 16px;
-  background-image: url(/images/Group3.png);
+  background-image: url(../images/Group3.png);
   padding-top: 24px;
   margin-bottom: 24px;
  }
@@ -1220,7 +1220,7 @@ h6 {
   float: right;
   margin-right: 120px;
   margin-top: 28px;
-  background-image: url(/images/gift.svg);
+  background-image: url(../images/gift.svg);
   background-repeat: no-repeat;
   background-position: right bottom;
 }
