@@ -477,6 +477,7 @@ h6 {
     position: absolute !important;
     top: 400px;
     z-index: 0;
+    width: 100%;
 }
 /* маленькие карточки */
 
